@@ -1,0 +1,5 @@
+discordBotToken: "token for your discord bot goes here"
+
+discordChannelID: "ID for the channel that the discord bot talks in"
+
+maintenanceMode: false

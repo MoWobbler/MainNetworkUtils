@@ -1,0 +1,6 @@
+name: ProxyUtils
+version: '${project.version}'
+main: me.mowobbler.proxyutils.ProxyUtils
+commands:
+  msg:
+    description: Send a private message to a player

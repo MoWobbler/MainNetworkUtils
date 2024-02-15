@@ -1,0 +1,17 @@
+name: MainMiscellaneous
+version: '${project.version}'
+main: me.mowobbler.mainmiscellaneous.MainMiscellaneous
+api-version: 1.15
+authors: [ MoWobbler ]
+description: Miscellaneous server plugin
+commands:
+  coords:
+    description: Prints basic information about user coords to sender
+  uptime:
+    description: Print the current server uptime
+  requestrestart:
+    description: Request a server restart
+  cancelrestart:
+    description: Cancel a requested server restart
+  rules:
+    description: Display the rules

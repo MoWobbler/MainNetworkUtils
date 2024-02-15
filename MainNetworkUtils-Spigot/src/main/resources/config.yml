@@ -1,0 +1,3 @@
+ServerIdentifier: "The name of your mc server as set in BungeeCord"
+IPAddress: "The ip address used for the proxy server"
+Port: "An open port used to talk to the proxy server"
